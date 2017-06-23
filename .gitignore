@@ -1,2 +1,4 @@
 *.ipynb_checkpoints
-
+*.jpeg
+*.tfevents
+*.cisl-parkland
